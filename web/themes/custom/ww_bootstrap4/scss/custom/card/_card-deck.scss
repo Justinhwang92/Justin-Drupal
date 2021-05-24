@@ -1,6 +1,9 @@
-.card {
+.card-deck {
   img {
     @extend .img-fluid;
     @extend .card-img-top;
   }
+}
+.card-deck .block {
+  padding-right: 10px;
 }
