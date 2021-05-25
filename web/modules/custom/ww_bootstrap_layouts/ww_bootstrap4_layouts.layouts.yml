@@ -1,9 +1,9 @@
 bs_row:
-  label: 'BS row'
+  label: "BS row"
   path: layouts/bs_row
   template: layout--bs-row
-  class: '\Drupal\layout_builder\Plugin\Layout\BsRowLayout'
-  category: 'WW Bootstrap4'
+  class: '\Drupal\ww_bootstrap4_layouts\Plugin\Layout\BsRowLayout'
+  category: "WW Bootstrap4"
   default_region: content
   icon_map:
     - [content]
